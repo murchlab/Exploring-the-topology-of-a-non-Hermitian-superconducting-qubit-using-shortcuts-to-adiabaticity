@@ -1,16 +1,17 @@
-# Exploring the Topology of a Non-Hermitian Superconducting Qubit using Shortcuts to Adiabaticity
+# Exploring the Topology of a Non-Hermitian Superconducting Qubit Using Shortcuts to Adiabaticity
 
-This repository contains the code and data associated with our paper.
+This repository contains the experimental data associated with our paper.
 
 ## Overview
-This data is taken on a non-Hermitian qubit described in the paper.
+The data in this repository was collected from a non-Hermitian superconducting qubit, as described in the paper.
+
 ## Repository Structure
-- `src/` – Simulation and analysis code
-- `notebooks/` – Jupyter notebooks used for figure generation
-- `figures/` – Key output figures from the paper
-- `data/` – Sample datasets or outputs
+- `figures/` – Key output figures from the paper  
+- `data/` – Experimental datasets and outputs  
 
 ## Getting Started
-Clone the repo:
+Clone the repository:
 ```bash
 git clone https://github.com/YOUR_USERNAME/Exploring-the-topology-of-a-non-Hermitian-superconducting-qubit-using-shortcuts-to-adiabaticity.git
+
+You can find the data associated with each figure by running the JupyterLab notebook "STAfigures.ipynb" provided in the repository.
